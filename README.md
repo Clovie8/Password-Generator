@@ -7,7 +7,7 @@ Random Password Generator in JavaScript.
 --------------------------------------
 
 
-This project is generating a random password based on user preferences. 
+This System is generating a random password based on user preferences. 
 The user can choose password length and whether to include uppercase letters, numbers, and symbols. 
 The generated password will be displayed in an input field, with an option to copy it.
 
